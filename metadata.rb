@@ -2,8 +2,8 @@
 maintainer       "Andrew Jo"
 maintainer_email "andrew@verdigris.co"
 license          "BSD"
-description      'Installs/Configures elasticsearch'
-long_description 'Installs/Configures elasticsearch'
-version          '0.1.0'
+description      "Installs/Configures elasticsearch"
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version          "0.1.0"
 
 depends "java"
