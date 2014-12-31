@@ -1,5 +1,5 @@
-ElasticSearch Cookbook for Amazon AWS OpsWorks
-==============================================
+ElasticSearch Cookbook
+======================
 
 This Chef cookbook contains recipes that automatically installs and configures
 ElasticSearch 1.1 for AWS OpsWorks instances.
