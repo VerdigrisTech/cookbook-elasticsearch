@@ -9,6 +9,7 @@ License
 
 Copyright &copy; 2014 Verdigris Technologies, Inc. All rights reserved.
 
-This cookbook is distributed under the BSD license. See [LICENSE.md](
+This cookbook is licensed and distributed under the Simplified BSD license. See
+[LICENSE.md](
   https://github.com/VerdigrisTech/cookbook-elasticsearch/blob/master/LICENSE
 ) for more details.
